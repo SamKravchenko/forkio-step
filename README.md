@@ -17,7 +17,6 @@
         gulp-sass
         browser-sync
         gulp-js-minify
-        gulp-uglify
         gulp-clean-css
         gulp-clean
         gulp-concat
@@ -26,5 +25,5 @@
 
     Состав: Семён Кравченко, Артём Галис.
     Группа: FE20;
-    Семён Кравченко выполнял такие секции, как:  верхнее меню(header) + бургер-меню, People Are Talking About Fork + настройка gulpfile;
+    Семён Кравченко выполнял такие секции, как:  Header(шапка + бургер-меню + Fork App), секцию People Are Talking About Fork + gulpfile + отладка ;
     Артём Галис выполнял такие секции,как: Revolutionary Editor, Here is what you get, Fork Subscription Pricing;
